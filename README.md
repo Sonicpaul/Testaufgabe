@@ -46,3 +46,6 @@ The MessageService provides a bridge between Controller and repository, so the C
 The MessageController handles the mapping of possible requests.
 This controller handles the mapping of "/api" routes especially a GET request at "/api/messages".
 It will provide a list of all Message entries in the database.
+
+
+This text has been corrected using https://www.deepl.com/write AI.
